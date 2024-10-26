@@ -1,0 +1,30 @@
+BACKEND
+npm isntall express
+
+npm install -g nodemon
+
+npm install prisma --save-dev
+
+npm install @prisma/client
+
+npx prisma init
+
+npx prisma migrate dev --name init
+
+npm install cors
+
+npm install jsonwebtoken
+
+npm install bcrypt
+
+npm install csv-writer
+
+npm install exceljs
+
+
+
+
+FRONTEND
+npx create-react-app frontend
+
+npm install axios
